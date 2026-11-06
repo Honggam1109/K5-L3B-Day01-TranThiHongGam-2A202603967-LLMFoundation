@@ -4,7 +4,7 @@
 
 - **MSSV:** 2A202603967
 - **Họ và tên:** Trần Thị Hồng Gấm
-- **SEED** (in ở ô đầu notebook):
+- **SEED** (in ở ô đầu notebook):3328
 
 ## 1. Bằng chứng
 
